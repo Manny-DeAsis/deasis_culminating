@@ -1,0 +1,67 @@
+body {
+ background-color: #a69cac;
+    font-family: serif;
+}
+.profile-card {
+    width: 200px;
+    padding: 50px;
+    background-color: #f1dac4;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+}
+.profile-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+.box {
+    width: 400px;
+    padding: 10px;
+    background-color: #f1dac4;
+    border: 2px double #000000;
+    border-radius: 10px;
+    margin: auto;
+}
+.nye img {
+    background-color: #f1dac4;
+    border: 2px double #000000;
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+}
+.one {
+    background-color: #f1dac4;
+    border: 2px double #000000;
+    border-radius: 10px;
+    width: 800px;
+    padding: 10px;
+    margin: auto;
+}
+.two {
+    background-color: #f1dac4;
+    border: 2px double #000000;
+    border-radius: 10px;
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+}
+.navt {
+    text-align: center;
+    background-color: #dbcdf0;
+    font-size: 30px;
+    border: 2px double #000000;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.navt a{
+    color: #49305e;
+    padding: 10px;   
+    text-decoration: none;   
+}
+li {
+    text-decoration-line: underline;
+}
